@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.connection-request-container {
+  width: 55vw;
+}
+
+.connection-request-datepicker {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
